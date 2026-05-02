@@ -2,6 +2,12 @@
 
 Public registry for custom Codex desktop pets.
 
+Live gallery:
+
+```text
+https://aaronmakelky.com/tools/codex-pets
+```
+
 Each pet is a small folder that can be installed into:
 
 ```text
@@ -23,7 +29,7 @@ Download a `*-codex-pet.zip` file, leave it in Downloads, then run:
 ```bash
 mkdir -p ~/.codex/pets
 ditto -x -k ~/Downloads/mongol-command-codex-pet.zip ~/.codex/pets
-ls -la ~/.codex/pets/mongol-command
+test -f ~/.codex/pets/mongol-command/pet.json && echo "Installed custom:mongol-command"
 ```
 
 Restart Codex after installing. The pet ID will be:
