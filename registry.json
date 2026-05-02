@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-01",
+  "source": "github",
+  "pets": [
+    {
+      "id": "mongol-command",
+      "displayName": "Mongol Command",
+      "description": "A synthwave Mongol command warrior for Codex desktop.",
+      "author": "Aaron Makelky",
+      "tags": ["synthwave", "mongol", "commander"],
+      "installId": "custom:mongol-command",
+      "repoPath": "pets/mongol-command",
+      "manifestUrl": "https://raw.githubusercontent.com/a-makelky/codex-pet-exchange/main/pets/mongol-command/pet.json",
+      "spritesheetUrl": "https://raw.githubusercontent.com/a-makelky/codex-pet-exchange/main/pets/mongol-command/spritesheet.webp",
+      "contactSheetUrl": "https://raw.githubusercontent.com/a-makelky/codex-pet-exchange/main/pets/mongol-command/contact-sheet.png",
+      "downloadUrl": "https://github.com/a-makelky/codex-pet-exchange/raw/main/pets/mongol-command/mongol-command-codex-pet.zip",
+      "license": "Demo asset",
+      "addedAt": "2026-05-01"
+    }
+  ]
+}
